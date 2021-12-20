@@ -8,7 +8,7 @@
 
 ## Entities
 
-> <img src=""/>
+> <img src="https://github.com/160-Sodexo-NET-Bootcamp/first-homework-NSeckinM/blob/master/NSeckinMantar_Odev1_BookStore/Images/Entity.png"/>
 
 ## BookController
 
@@ -16,6 +16,6 @@
 > More information is given above the all action as comments.
 
 
-> <img src=""/>
+> <img src="https://github.com/160-Sodexo-NET-Bootcamp/first-homework-NSeckinM/blob/master/NSeckinMantar_Odev1_BookStore/Images/Controller.png"/>
 
-> <img src=""/>
+> <img src="https://github.com/160-Sodexo-NET-Bootcamp/first-homework-NSeckinM/blob/master/NSeckinMantar_Odev1_BookStore/Images/datas.png"/>
